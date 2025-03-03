@@ -1,5 +1,5 @@
 var jsonDir = "public/config.json";
-var imageDir = "/public/images/mainPage";
+var imageDir = "public/images/mainPage";
 var imageContainer = document.querySelector("#imageHolder");
 var fileextension = ".jpg";
 var checking = true;
