@@ -2,11 +2,11 @@
 
 @font-face {
     font-family: LinealRegular;
-    src: url("/fonts/Lineal-Regular.ttf");
+    src: url("fonts/Lineal-Regular.ttf");
 }
 @font-face {
     font-family: LinealLight;
-    src: url("/fonts/Lineal-Light.ttf");
+    src: url("fonts/Lineal-Light.ttf");
 }
 
 body{
