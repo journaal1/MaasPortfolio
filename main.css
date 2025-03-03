@@ -1,6 +1,6 @@
 @import "tailwindcss";
-@font-face { font-family: LinealRegular; src: url("/public/fonts/Lineal-Regular.ttf"); }
-@font-face { font-family: LinealLight; src: url("/public/fonts/Lineal-Light.ttf"); }
+@font-face { font-family: LinealRegular; src: url("public/fonts/Lineal-Regular.ttf"); }
+@font-face { font-family: LinealLight; src: url("public/fonts/Lineal-Light.ttf"); }
 
 
 body{
